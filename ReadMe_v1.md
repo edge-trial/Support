@@ -147,9 +147,11 @@ The following diagram shows a snapshot of Data Explorer UI.
 
 ![Data Explorer UI](/_images/desnap.png)
 
+In addition, you find a `FAQ & Support` tab which is provided to assist users in reaching out for troubleshooting support. On the right end, it shows `JupterLab Credentials` tab which will be used to sign in to JupyterLab Console.
+
 ### 3.1 Data Explorer Catalog
 
-As illustrated in the diagram above in section 1.1, this menu is available on the top-left corner of the UI. 
+As illustrated in the diagram above, this menu is available on the top-left corner of the UI. 
 
 As soon as you click on *Data Explorer Catalog* tab, it will open an interface below containing two columns - catalog categories arranged in vertical, and a grid containing dataset and Notebook tiles.
 
