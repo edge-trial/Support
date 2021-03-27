@@ -130,15 +130,13 @@ If the instance has started completely, you would see **Data Explorer Catalog** 
 
 The upcoming sections talk about the following topics on Data Explorer.
 
-- Components of Data Explorer
-- Understanding Data Explorer Catalog
-- Deploying a Dataset
-- Exploring Data Assets using Notebook in JupyterLab
-
+- [Components of Data Explorer](#3-components-of-data-explorer)
+- [Understanding Data Explorer Catalog](#31-data-explorer-catalog)
+- [Deploying a Dataset](#44-deploy-a-dataset)
+- [Exploring Data Assets using Notebook in JupyterLab](#51-jupyter-notebook)
 
 ***Let's get started!***
 
-----------
 
 ## 3. Components of Data Explorer 
 
