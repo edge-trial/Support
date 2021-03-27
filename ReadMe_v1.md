@@ -136,9 +136,9 @@ The upcoming sections talk about the following topics on Data Explorer.
 - [Deploying a Dataset](#44-deploy-a-dataset)
 - [Exploring Data Assets using Notebook in JupyterLab](#51-exploring-jupyter-notebook)
 
+
 ***Let's get started!***
-
-
+-------
 ## 3. Components of Data Explorer 
 
 Data Explorer is composed of the two major components that users can leverage to perform data science related tasks. These classic components are:
