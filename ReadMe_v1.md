@@ -1,7 +1,8 @@
 ## Overview
 
 <p>This guide describes the concept of Data Explorer, how to get access to Data Explorer catalog, and further use it to discover data by classified categories.
-<p>In the later sections, you will gain insights into essentials of Jupyter Notebook including steps to create and use a Notebook in JupyterLab and some helpful links to information about using JupyterLab and Jupyter Notebook interface. Also, learn how to raise a support request for any issue related to Data Explorer.
+<p>In the later sections, you will gain insights into essentials of Jupyter Notebook including steps to create and use a Notebook in JupyterLab and some helpful links to information about using JupyterLab and Jupyter Notebook interface. 
+<p>Also, learn how to raise a support request for any issue related to using the Data Explorer.
 
 ----
 #### Contents
@@ -149,13 +150,13 @@ Data Explorer is composed of the two major components that users can leverage to
 
 The following diagram shows a snapshot of Data Explorer UI.
 
-![image-20210325171654260](C:\Users\MugdhaThareja\Desktop\image-20210325171654260.jpg)Catalog
+![Data Explorer UI](/_images/desnap.png)
 
 ### 3.1 Data Explorer Catalog
 
 As illustrated in the diagram above in section 1.1, this menu is available on the top-left corner of the UI. 
 
-As soon as you click on *Data Explorer Catalog* tab, it will open an interface below containing two columns - one containing catalog categories arranged in vertical, and other containing a grid of dataset and notebook tiles.
+As soon as you click on *Data Explorer Catalog* tab, it will open an interface below containing two columns - catalog categories arranged in vertical, and a grid containing dataset and Notebook tiles.
 
 #### 3.1.1 Catalog Categories
 
@@ -172,13 +173,12 @@ This allows the user to view the grid content based on the selection of radio bu
 
 **Show All**
 
-![image-20210325184628384](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\showall.png)
-
+![CatalogUI](/_images/showall.png)
 
 
 **Show Deployed**
 
-![image-20210325184530870](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\shoedep.png)
+![CatalogUI](/_images/shoedep.png)
 
 
 
@@ -188,17 +188,19 @@ Under this category, a user can make his choice to view Dataset or Notebook or b
 
 **Dataset Type**
 
-![image-20210325185127878](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\typed.png)
+![CatalogUI](/_images/typed.png)
 
 This produces the list of available dataset tiles in the grid column.
 
+
 **Notebook Type**
 
-![image-20210325185316793](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\typen.png)
+![CatalogUI](/_images/typen.png)
 
 This produces the list of available Notebook tiles in the grid column.
 
-> Selecting both the list boxes will display a collection of dataset and notebook tiles.
+> Selecting both the list boxes will display a collection of both datasets and Notebooks.
+
 
 ##### 3.1.3 Tags
 
@@ -216,7 +218,7 @@ Now, you have learned about various catalog categories and resulting grid view u
 
 Suppose the user clicks on `All` and selects `Dataset` type. This will display the below content on Catalog UI.
 
-![image-20210325191537429](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\Browsedc.png)
+![Browse Catalog](/_images/Browsedc.png)
 
 Now, clicking on one of the dataset tiles (say, Flower Classification Data), the user will view a small window opening to the right of the grid. See below.
 
@@ -246,7 +248,7 @@ On the top-right corner of the Explorer UI, you find *JupyterLab Credentials* wi
 
 These credentials can be copied for use by the end users to sign in to JupyterLab console.
 
-![JupyterLab Login](C:\Users\MugdhaThareja\Desktop\JupyterLab Credentials.PNG)
+![Jupyter Login](/_images/juplogin.png)
 
 > Clicking on the eye icon on the right side of password, a user can view the actual password.
 
@@ -254,7 +256,7 @@ These credentials can be copied for use by the end users to sign in to JupyterLa
 
 After successful login, the user is redirected to JupyterLab user interface.  The following diagram depicts the snapshot of JupyterLab UI.
 
-![image-20210326140754070](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\dirstr.png)
+![Jupyter Login](/_images/dirstr.png)
 
 Here, you can see the Folder view, and the Launcher view. 
 
@@ -263,7 +265,6 @@ Here, you can see the Folder view, and the Launcher view.
 - Launcher view: This shows the content of Notebook to be explored by the end user. To launch the content of selected Notebook, it is required that the corresponding dataset of that Notebook must be pre-installed.
 
   
-
 ### 4.4 Deploy a Dataset
 
 To install the dataset,
@@ -272,21 +273,21 @@ To install the dataset,
 
 2. Select type as `Dataset`, and click on the desired dataset tile.
 
-   ![image-20210326142359614](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\depds1.png)
+ ![Install Dataset](/_images/depds1.png)
 
 3. Click on the icon on the bottom right of the dataset tile. This will open the selected dataset in new tab displaying information about the chosen dataset.
 
-   ![image-20210326142426189](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\depds2.png)
+ ![Install Dataset](/_images/depds2.png)
 
 4. Click on `Deploy Dataset` to install the chosen dataset.
 
 5. On successful installation, the page will display installation details with Dataset path that a user can reference while exploring Jupyter Notebooks in the JupyterLab console.
 
-![image-20210326142745272](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\depds3.png)
+![Install Dataset](/_images/depds3.png)
 
 A folder gets added to the JupyterLab directory structure.
 
-![image-20210326143019357](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\depds4.png)
+![Install Dataset](/_images/depds4.png)
 
 > Note: Dataset folder and Notebook folder resides in the same directory in JupyterLab space.
 
