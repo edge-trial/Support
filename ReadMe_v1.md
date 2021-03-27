@@ -127,7 +127,7 @@ Wait for some time (around 3 minutes) until the instance gets started.
 
 If the instance has started completely, you would see **Data Explorer Catalog** page.
 
-> **That's it!** Now you are ready to get hands-on with Data Explorer.
+> **That's it!** Now you are ready to get hands-on with Data Explorer Interface.
 
 ----
 The upcoming sections talk about the following topics on Data Explorer.
