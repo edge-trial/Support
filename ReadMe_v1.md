@@ -54,76 +54,64 @@ To get started, follow the below steps.
 
 **Step 2**: Click on `Accept Terms` (visible in yellow button) on the Subscription page.
 
-![image-20210326164947801](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run2.png)
-
+![Run_on_AWS](/_images/run2.png)
 
 **Step 3**: You will view a Thank you message on the top of the page. 
 
-![image-20210326165252959](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run3.png)
+![Run_on_AWS](/_images/run3.png)
 
 The page also displays the processing status of your Subscription Request.
 
-![image-20210326165305803](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run3a.png)
-
+![Run_on_AWS](/_images/run3a.png)
 
 **Step 4**: When your subscription request is processed successfully, click  on`Continue to Configuration`.
-
-![image-20210326165626177](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run4.png)
+![Run_on_AWS](/_images/run4.png)
 
 
 **Step 5**: On *Configure* page, confirm your selection of *Delivery Method*, *Software Version*, *Region*. You can also choose to proceed with default values, and click on `Continue to Launch` button.
 
-![image-20210326165841756](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run5.png)
-
+![Run_on_AWS](/_images/run5.png)
 
 **Step 6**: On *Launch* page, select `Launch through EC2`  from **Choose Action** drop-down list, and then click on `Launch`.
 
-![image-20210326165909349](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run6.png)
+![Run_on_AWS](/_images/run6.png)
 
 **Step 7**: Choose the `Instance Type`, and click on `Configure Security Group` in the given Menu bar.
 
 ![img](file:///C:/Users/MUGDHA~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
  ![img](file:///C:/Users/MUGDHA~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
 
-
-
 **Step 8**: Verify that the below ports are added.
 
-![image-20210326170429073](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run8.png)
-
-
+![Run_on_AWS](/_images/run8.png)
 
 **Step 9**: Click on `Review and Launch` button.
 
-![image-20210326170533647](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run9.png)
+![Run_on_AWS](/_images/run9.png)
 
 **Step 10**: Once you've reviewed all the settings, click on `Launch` button.
 
-![image-20210326170608287](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run10.png)
+![Run_on_AWS](/_images/run10.png)
 
 **Step 11**: Select the option `Proceed without a key pair`, check the acknowledgement statement box, and then click on `Launch Instances` button to proceed.
 
-![image-20210326170921176](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run11.png) 
+![Run_on_AWS](/_images/run11.png)
 
 This redirects you to Launch Status page.
 
 **Step 12**: Click on the <Instance ID> highlighted in blue. (Here, it is i-0ce08ec9ef7d55442).
 
-![image-20210326171312477](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run12.png)
-
-
+![Run_on_AWS](/_images/run12.png)
 
 **Step 13**: On `Instances` page, select the instance (with same Instance ID) to view the details.
 
-![image-20210326171605826](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run13.png)
+![Run_on_AWS](/_images/run13.png)
 
 Wait for some time (around 3 minutes) until the instance gets started. 
 
-
-
 **Step 14**: Click on `open address` link provided under **Public IPv4 DNS** section.
 
-![image-20210326171647058](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run14.png)
+![Run_on_AWS](/_images/run14.png)
 
 If the instance has started completely, you would see **Data Explorer Catalog** page.
 
