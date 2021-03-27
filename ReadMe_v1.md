@@ -148,7 +148,7 @@ The following diagram shows a snapshot of Data Explorer UI.
 ![Data Explorer UI](/_images/desnap.png)
 
 - In addition, you find a `FAQ & Support` tab which is provided to assist users in reaching out for troubleshooting support. 
-- On the right end, it shows a tab `JupterLab Credentials` which will be used to sign in to JupyterLab Console.
+- On the right end, it shows a tab `JupyterLab Credentials` which will be used to sign in to JupyterLab Console.
 
 ### 3.1 Data Explorer Catalog
 
@@ -174,6 +174,7 @@ This allows the user to view the grid content based on the selection of radio bu
 ![CatalogUI](/_images/showall.png)
 
 
+
 **Show Deployed**
 
 ![CatalogUI](/_images/shoedep.png)
@@ -183,6 +184,7 @@ This allows the user to view the grid content based on the selection of radio bu
 ##### 3.1.2 Types
 
 Under this category, a user can make his choice to view Dataset or Notebook or both in the grid column.
+
 
 **Dataset Type**
 
@@ -293,22 +295,22 @@ A folder gets added to the JupyterLab directory structure.
 
 Jupyter notebooks are rich documents that combine live runnable code with equations (LaTeX),  images, narrative text (Markdown), interactive visualizations and other file formats. The file extension of a Jupyter notebook  is `.ipynb`.
 
-> In Jupyter Lab, the UI for a Jupyter Notebook closely follows that of a classic Jupyter Notebook.
+> In JupyterLab, the UI for a Jupyter Notebook closely follows that of a classic Jupyter Notebook.
 
 ### 5.1 Exploring Jupyter Notebook
 
 1. To view the Notebook files in JupyterLab, click on `JupyterLab` tab. This will redirect you to login dashboard.
-2. Enter the JupyterLab Credentials and click on Sign In. 
+2. Enter the JupyterLab Credentials and click on `Sign in`. 
 
 > Note: If you are already logged in to JupyterLab, ignore the above steps.
 
-![image-20210326143325919](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\Jupnb.png)
+![Entering Jupyter Notebook Interface](/_images/Jupnb.png)
 
 3. Click on the target folder you want to access. (say, Flower_classification)
 4. This will open the sub-folders of the chosen dataset folder.
 5. Cliick `notebooks` folder, and then the corresponding `.ipynb` file. This will display the content in the Launcher view.
 
-![image-20210326143551019](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\jupexpnb.png)
+![Entering Jupyter Notebook Interface](/_images/jupexpnb.png)
 
 Now you can explore, experiment and visualize the data according to your requirements.
 
@@ -324,10 +326,9 @@ You can navigate to the file by following the below steps.
 
 This opens the corresponding file in Launcher view as follows.
 
-![image-20210326145144715](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\usenb.png)
+![Explore Jupyter Notebooks](/_images/usenb.png)
 
 The file contains a step-by-step guide on how to create a new a Notebook and use it in JupyterLab.
-
 
 
 ## 6. Further Reading
