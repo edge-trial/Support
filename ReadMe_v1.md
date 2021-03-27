@@ -27,9 +27,8 @@
 - [5. Jupyter Notebook](#5-jupyter-notebook)
   * [5.1 Exploring Jupyter Notebook](#51-exploring-jupyter-notebook)
   * [5.2 Create and Use a Notebook in JupyterLab](#52-create-and-use-a-notebook-in-jupyterlab)
-- [6. Further Reading](#6-further-reading)
-- [7. Getting Help](#7-getting-help)
-
+- [6. Getting Help](#6-getting-help)
+- [7. Further Reading](#7-further-reading)
 -----
 
 ## 1. What is Data Explorer?
@@ -325,19 +324,7 @@ This opens the corresponding file in Launcher view as follows.
 The file contains a step-by-step guide on how to create a new a Notebook and use it in JupyterLab.
 
 ---------------
-## 6. Further Reading
-
-> A comprehensive list of links to information that will help you find what you are looking for.
-
-To learn more about the repositories for a Jupyter project, you can take a moment and read the following documentation.
-
-- [About Python](https://docs.python.org/)
-- [Python Standard Libraries](https://docs.python.org/3/library/)
-- [JupyterLab Reference](https://jupyterlab.readthedocs.io/en/stable/)
-- [More About Jupyter Notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
-
------------
-## 7. Getting Help
+## 6. Getting Help
 
 If you encounter any problems when setting up or using Data Explorer, please let us know - we're here to help you!
 
@@ -349,3 +336,14 @@ Providing as much information as possible about your issue will help our Support
 
 *We also welcome suggestions for new feature or improvement as they will help make this project more useful for everyone.*
 
+------------
+## 7. Further Reading
+
+> A comprehensive list of links to information that will help you find what you are looking for.
+
+To learn more about the repositories for a Jupyter project, you can take a moment and read the following documentation.
+
+- [About Python](https://docs.python.org/)
+- [Python Standard Libraries](https://docs.python.org/3/library/)
+- [JupyterLab Reference](https://jupyterlab.readthedocs.io/en/stable/)
+- [More About Jupyter Notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
