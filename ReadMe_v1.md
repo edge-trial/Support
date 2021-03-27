@@ -225,14 +225,14 @@ Now, clicking on one of the dataset tiles (say, Boston House Prediction Evaluati
 This window will display the name of selected dataset on the top, and following information about this dataset.
 
 - Metadata (Install Time, Type, Last Updated, Categories, By)
-- Brief Description
+- Brief description
 
 -------
 ## 4. JupyterLab
 
 ### 4.1 Getting Started
 
-Popularly known as Jupyter’s Next-Generation Notebook Interface, JupyterLab brings many new features to users. It is an open-source, web-based interactive development environment for Jupyter notebooks, code, and data. The peculiar features of JupyterLab are:
+Popularly known as _Jupyter’s Next-Generation Notebook Interface_, JupyterLab brings many new features to users. It is an open-source, web-based interactive development environment for Jupyter notebooks, code, and data. The peculiar features of JupyterLab are:
 
 - *Flexible* - Users can configure and arrange the UI to support a broad range of workflows in data science, scientific computing, and machine learning. 
 - *Modular and Extensible*  - Users can write plugins that add new components and can integrate with existing ones.
