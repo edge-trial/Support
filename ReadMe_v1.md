@@ -160,13 +160,12 @@ As soon as you click on *Data Explorer Catalog* tab, it will open an interface b
 
 This column contains four categories - Show, Types, Tags, and Categories. A user can sort the grid view by making choices from the given selection list boxes.
 
-##### 3.1.1 Show
+##### 1. Show
 
 This allows the user to view the grid content based on the selection of radio button - All or Deployed.
 
 - If a user selects `All`, it will show the entire list of available datasets and notebooks.
 - If a user selects `Deployed`, it will show only the installed versions of datasets and notebooks.
-
 
 
 **Show All**
@@ -181,7 +180,7 @@ This allows the user to view the grid content based on the selection of radio bu
 
 
 
-##### 3.1.2 Types
+##### 2. Types
 
 Under this category, a user can make his choice to view Dataset or Notebook or both in the grid column.
 
@@ -202,11 +201,11 @@ This produces the list of available Notebook tiles in the grid column.
 > Selecting both the list boxes will display a collection of both datasets and Notebooks.
 
 
-##### 3.1.3 Tags
+##### 3. Tags
 
 Selecting this category will display the grid of dataset tiles containing CSV files. CSV files are easy to work with and are characterized by their tabular format.
 
-##### 3.1.4 Categories
+##### 4. Categories
 
 This contains the datasets categories upon which Notebooks have been built. A user can choose to view particular tile(s), making choices from the given genres of categories.
 
