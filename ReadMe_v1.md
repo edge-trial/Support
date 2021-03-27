@@ -108,7 +108,7 @@ The page also displays the processing status of your Subscription Request.
 This redirects you to Launch Status page.
 
 
-**Step 12**: Click on the <Instance ID> highlighted in blue. (Here, it is i-0ce08ec9ef7d55442).
+**Step 12**: Click on the `Instance ID` highlighted in blue. (Here, it is i-0ce08ec9ef7d55442).
 
 ![Run_on_AWS](/_images/run12.png)
 
