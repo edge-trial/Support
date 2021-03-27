@@ -153,9 +153,9 @@ The following diagram shows a snapshot of Data Explorer UI.
 
 ### 3.1 Data Explorer Catalog
 
-As illustrated in the diagram above, this menu is available on the top-left corner of the UI. 
+As illustrated in the diagram above, this tab is available on the top-left corner of the UI. 
 
-As soon as you click on *Data Explorer Catalog* tab, it will open an interface below containing two columns - catalog categories arranged in vertical, and a grid containing dataset and Notebook tiles.
+As soon as you click on *Data Explorer Catalog*, it will open an interface below containing two columns - catalog categories arranged in vertical, and a grid containing dataset and Notebook tiles.
 
 #### 3.1.1 Catalog Categories
 
