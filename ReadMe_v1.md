@@ -147,7 +147,8 @@ The following diagram shows a snapshot of Data Explorer UI.
 
 ![Data Explorer UI](/_images/desnap.png)
 
-In addition, you find a `FAQ & Support` tab which is provided to assist users in reaching out for troubleshooting support. On the right end, it shows `JupterLab Credentials` tab which will be used to sign in to JupyterLab Console.
+- In addition, you find a `FAQ & Support` tab which is provided to assist users in reaching out for troubleshooting support. 
+- On the right end, it shows a tab `JupterLab Credentials` which will be used to sign in to JupyterLab Console.
 
 ### 3.1 Data Explorer Catalog
 
