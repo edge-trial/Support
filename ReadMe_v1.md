@@ -130,14 +130,11 @@ If the instance has started completely, you would see **Data Explorer Catalog** 
 
 ----
 The upcoming sections talk about the following topics on Data Explorer.
-
 - [Components of Data Explorer](#3-components-of-data-explorer)
 - [Understanding Data Explorer Catalog](#31-data-explorer-catalog)
 - [Deploying a Dataset](#44-deploy-a-dataset)
 - [Exploring Data Assets using Notebook in JupyterLab](#51-exploring-jupyter-notebook)
 
-
-***Let's get started!***
 -------
 ## 3. Components of Data Explorer 
 
@@ -303,8 +300,6 @@ Jupyter notebooks are rich documents that combine live runnable code with equati
 > Note: If you are already logged in to JupyterLab, ignore the above steps.
 
 ![image-20210326143325919](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\Jupnb.png)
-
-
 
 3. Click on the target folder you want to access. (say, Flower_classification)
 4. This will open the sub-folders of the chosen dataset folder.
