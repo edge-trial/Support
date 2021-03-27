@@ -1,8 +1,7 @@
 ## Overview
 
-This guide describes the concept of Data Explorer, how to get access to Data Explorer catalog, and further use it to discover data by classified categories. 
-
-In the later sections, it provides an introduction to Jupyter Notebook and steps to use a Notebook in JupyterLab; followed by helpful links to information about using Notebooks, and process to raise a support request.
+This guide describes the concept of Data Explorer, how to get access to Data Explorer catalog, and further use it to discover data by classified categories.
+In the later sections, you will gain insights into essentials of Jupyter Notebook including steps to use a Notebook in JupyterLab and some helpful links to information about using Notebooks. Also, learn how to raise a support request.
 
 ----
 #### Contents
@@ -56,6 +55,7 @@ To get started, follow the below steps.
 
 ![Run_on_AWS](/_images/run2.png)
 
+
 **Step 3**: You will view a Thank you message on the top of the page. 
 
 ![Run_on_AWS](/_images/run3.png)
@@ -64,7 +64,9 @@ The page also displays the processing status of your Subscription Request.
 
 ![Run_on_AWS](/_images/run3a.png)
 
+
 **Step 4**: When your subscription request is processed successfully, click  on`Continue to Configuration`.
+
 ![Run_on_AWS](/_images/run4.png)
 
 
@@ -72,26 +74,32 @@ The page also displays the processing status of your Subscription Request.
 
 ![Run_on_AWS](/_images/run5.png)
 
+
 **Step 6**: On *Launch* page, select `Launch through EC2`  from **Choose Action** drop-down list, and then click on `Launch`.
 
 ![Run_on_AWS](/_images/run6.png)
 
+
 **Step 7**: Choose the `Instance Type`, and click on `Configure Security Group` in the given Menu bar.
 
-![img](file:///C:/Users/MUGDHA~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
- ![img](file:///C:/Users/MUGDHA~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
+![Run_on_AWS](/_images/run7a.png)
+![Run_on_AWS](/_images/run7b.png)
+
 
 **Step 8**: Verify that the below ports are added.
 
 ![Run_on_AWS](/_images/run8.png)
 
+
 **Step 9**: Click on `Review and Launch` button.
 
 ![Run_on_AWS](/_images/run9.png)
 
+
 **Step 10**: Once you've reviewed all the settings, click on `Launch` button.
 
 ![Run_on_AWS](/_images/run10.png)
+
 
 **Step 11**: Select the option `Proceed without a key pair`, check the acknowledgement statement box, and then click on `Launch Instances` button to proceed.
 
@@ -99,15 +107,18 @@ The page also displays the processing status of your Subscription Request.
 
 This redirects you to Launch Status page.
 
+
 **Step 12**: Click on the <Instance ID> highlighted in blue. (Here, it is i-0ce08ec9ef7d55442).
 
 ![Run_on_AWS](/_images/run12.png)
+
 
 **Step 13**: On `Instances` page, select the instance (with same Instance ID) to view the details.
 
 ![Run_on_AWS](/_images/run13.png)
 
 Wait for some time (around 3 minutes) until the instance gets started. 
+
 
 **Step 14**: Click on `open address` link provided under **Public IPv4 DNS** section.
 
