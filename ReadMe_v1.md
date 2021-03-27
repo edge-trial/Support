@@ -335,9 +335,9 @@ The file contains a step-by-step guide on how to create a new a Notebook and use
 
 ## 6. Further Reading
 
-> A collection of links to information that will help you find what you are looking for.
+> A comprehensive list of links to information that will help you find what you are looking for.
 
-For more information, you can take a moment and read the following documentation.
+To learn more about the repositories for a Jupyter project, you can take a moment and read the following documentation.
 
 - [About Python](https://docs.python.org/)
 - [Python Standard Libraries](https://docs.python.org/3/library/)
