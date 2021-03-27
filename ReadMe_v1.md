@@ -49,7 +49,7 @@ To get started, follow the below steps.
 
 **Step 1:** On Data Explorer Product page, click on `Continue to Subscribe` button.
 
-![Run_on_AWS](_images/Belmann1.png)
+![Run_on_AWS](/_images/run1.png)
 
 
 **Step 2**: Click on `Accept Terms` (visible in yellow button) on the Subscription page.
