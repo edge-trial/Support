@@ -17,7 +17,7 @@
       - [Show](#show)
       - [Types](#types)
       - [Tags](#tags)
-      - [D. Categories](#d-categories)
+      - [Categories](#categories)
   * [3.2 Browsing through the Data Catalog](#32-browsing-through-the-data-catalog)
 - [4. JupyterLab](#4-jupyterlab)
   * [4.1 Getting Started](#41-getting-started)
