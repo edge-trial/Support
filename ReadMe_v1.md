@@ -241,6 +241,8 @@ Popularly known as Jupyter’s Next-Generation Notebook Interface, JupyterLab br
 - *Unified View Model* - JupyterLab provides an integrated model to handle different data formats (images, CSV, PDF, JSON, Markdown, etc.). It can display kernel output by interpreting these formats.
 - *Rich User Experience* - Working with Jupyter Notebooks offers users with the advantage of building rich web applications, statistical modeling, numerical simulation, plotting and much more. 
 
+> The Jupyter Notebook is quite useful not only for exploring and analyzing data, but also for learning a programming language such as Python.
+
 ### 4.2 JupyterLab Credentials
 
 On the top-right corner of the Explorer UI, you find *JupyterLab Credentials* with a key icon. Once clicked, this will open the credential details - username and password.
