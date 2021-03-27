@@ -168,9 +168,13 @@ This allows the user to view the grid content based on the selection of radio bu
 - If a user selects `All`, it will show the entire list of available datasets and notebooks.
 - If a user selects `Deployed`, it will show only the installed versions of datasets and notebooks.
 
+> Show All
+
 ![CatalogUI](/_images/showall.png)
 
 ----
+> Show Deployed
+
 ![CatalogUI](/_images/shoedep.png)
 
 
@@ -178,14 +182,13 @@ This allows the user to view the grid content based on the selection of radio bu
 
 Under this category, a user can make his choice to view Dataset or Notebook or both in the grid column.
 
-**Dataset Type**
+> Dataset Type
 
 ![CatalogUI](/_images/typed.png)
 
 This produces the list of available dataset tiles in the grid column.
 
-
-**Notebook Type**
+> Notebook Type
 
 ![CatalogUI](/_images/typen.png)
 
@@ -196,11 +199,14 @@ This produces the list of available Notebook tiles in the grid column.
 
 ##### Tags
 
-Selecting this category will display the grid of dataset tiles containing CSV files. CSV files are easy to work with and are characterized by their tabular format.
+Selecting this category will display the grid of dataset tiles containing `CSV` files. CSV files are easy to work with and are characterized by their tabular format.
 
 ##### Categories
 
 This contains the datasets categories upon which Notebooks have been built. A user can choose to view particular tile(s), making choices from the given genres of categories.
+
+![Catalog_Categories](/_images/catlist.png)
+
 
 ### 3.2 Browsing through the Data Catalog
 
