@@ -10,7 +10,7 @@
 - [Overview](#overview)
 - [1. What is Data Explorer?](#1-what-is-data-explorer-)
   * [1.1 Unlocking the Benefits](#11-unlocking-the-benefits)
-- [2. Configure Data Explorer on AWS](#2-configure-data-explorer-on-aws)
+- [2. Running Data Explorer on AWS](#2-running-data-explorer-on-aws)
 - [3. Components of Data Explorer](#3-components-of-data-explorer)
   * [3.1 Data Explorer Catalog](#31-data-explorer-catalog)
     + [3.1.1 Catalog Categories](#311-catalog-categories)
@@ -43,7 +43,7 @@
 
 -----
 
-## 2. Configure Data Explorer on AWS
+## 2. Running Data Explorer on AWS
 
 To get started, follow the below steps.
 
