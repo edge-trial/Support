@@ -49,14 +49,12 @@ To get started, follow the below steps.
 
 **Step 1:** On Data Explorer Product page, click on `Continue to Subscribe` button.
 
-![image-20210326164828396](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run1.png)
-
+![Run_on_AWS](_images/Belmann1.png)
 
 
 **Step 2**: Click on `Accept Terms` (visible in yellow button) on the Subscription page.
 
 ![image-20210326164947801](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run2.png)
-
 
 
 **Step 3**: You will view a Thank you message on the top of the page. 
@@ -68,17 +66,14 @@ The page also displays the processing status of your Subscription Request.
 ![image-20210326165305803](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run3a.png)
 
 
-
 **Step 4**: When your subscription request is processed successfully, click  on`Continue to Configuration`.
 
 ![image-20210326165626177](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run4.png)
 
 
-
 **Step 5**: On *Configure* page, confirm your selection of *Delivery Method*, *Software Version*, *Region*. You can also choose to proceed with default values, and click on `Continue to Launch` button.
 
 ![image-20210326165841756](C:\Users\MugdhaThareja\Desktop\Operator Playground\DS_Data_Explorer\Images\run5.png)
-
 
 
 **Step 6**: On *Launch* page, select `Launch through EC2`  from **Choose Action** drop-down list, and then click on `Launch`.
