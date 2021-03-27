@@ -5,7 +5,7 @@ This guide describes the concept of Data Explorer, how to get access to Data Exp
 In the later sections, it provides an introduction to Jupyter Notebook and steps to use a Notebook in JupyterLab; followed by helpful links to information about using Notebooks, and process to raise a support request.
 
 ----
-<b>Contents</b>
+#### Contents
 
 - [Overview](#overview)
 - [1. What is Data Explorer?](#1-what-is-data-explorer-)
