@@ -14,9 +14,9 @@
 - [3. Components of Data Explorer](#3-components-of-data-explorer)
   * [3.1 Data Explorer Catalog](#31-data-explorer-catalog)
     + [3.1.1 Catalog Categories](#311-catalog-categories)
-      - [A. Show](#a-show)
-      - [B. Types](#b-types)
-      - [C. Tags](#c-tags)
+      - [Show](#show)
+      - [Types](#types)
+      - [Tags](#tags)
       - [D. Categories](#d-categories)
   * [3.2 Browsing through the Data Catalog](#32-browsing-through-the-data-catalog)
 - [4. JupyterLab](#4-jupyterlab)
@@ -160,7 +160,7 @@ As soon as you click on *Data Explorer Catalog* tab, it will open an interface b
 
 This column contains four categories - Show, Types, Tags, and Categories. A user can sort the grid view by making choices from the given selection list boxes.
 
-##### A. Show
+##### Show
 
 This allows the user to view the grid content based on the selection of radio button - All or Deployed.
 
@@ -173,17 +173,14 @@ This allows the user to view the grid content based on the selection of radio bu
 ![CatalogUI](/_images/showall.png)
 
 
-
 **Show Deployed**
 
 ![CatalogUI](/_images/shoedep.png)
 
 
-
-##### B. Types
+##### Types
 
 Under this category, a user can make his choice to view Dataset or Notebook or both in the grid column.
-
 
 **Dataset Type**
 
@@ -201,7 +198,7 @@ This produces the list of available Notebook tiles in the grid column.
 > Selecting both the list boxes will display a collection of both datasets and Notebooks.
 
 
-##### C. Tags
+##### Tags
 
 Selecting this category will display the grid of dataset tiles containing CSV files. CSV files are easy to work with and are characterized by their tabular format.
 
