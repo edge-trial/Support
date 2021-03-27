@@ -26,7 +26,7 @@
 - [5. Jupyter Notebook](#5-jupyter-notebook)
   * [5.1 Exploring Jupyter Notebook](#51-exploring-jupyter-notebook)
   * [5.2 Create and Use a Notebook in JupyterLab](#52-create-and-use-a-notebook-in-jupyterlab)
-- [6. Useful Links](#6-useful-links)
+- [6. Further Reading](#6-useful-links)
 - [7. Help & Support](#7-help---support)
 
 -----
@@ -333,9 +333,11 @@ The file contains a step-by-step guide on how to create a new a Notebook and use
 
 
 
-## 6. Useful Links
+## 6. Further Reading
 
-A collection of links to information that will help you find what you are looking for:
+> A collection of links to information that will help you find what you are looking for.
+
+For more information, you can take a moment and read the following documentation.
 
 - [About Python](https://docs.python.org/)
 - [Python Standard Libraries](https://docs.python.org/3/library/)
