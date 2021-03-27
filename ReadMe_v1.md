@@ -28,7 +28,7 @@
   * [5.1 Exploring Jupyter Notebook](#51-exploring-jupyter-notebook)
   * [5.2 Create and Use a Notebook in JupyterLab](#52-create-and-use-a-notebook-in-jupyterlab)
 - [6. Further Reading](#6-further-reading)
-- [7. Help & Support](#7-help-&-support)
+- [7. Help & Support](#7-getting-help)
 
 -----
 
@@ -337,7 +337,7 @@ To learn more about the repositories for a Jupyter project, you can take a momen
 - [More About Jupyter Notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
 
 -----------
-## 7. Help & Support
+## 7. Getting Help
 
 If you encounter any problems when setting up or using Data Explorer, please let us know - we're here to help you!
 
