@@ -6,8 +6,6 @@ In the later sections, it provides an introduction to Jupyter Notebook and steps
 
 ----
 
-<b>Contents</b>
-
 [toc]
 
 -----
