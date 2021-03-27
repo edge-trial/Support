@@ -128,6 +128,7 @@ If the instance has started completely, you would see **Data Explorer Catalog** 
 
 > **That's it!** Now you are ready to get hands-on with Data Explorer.
 
+----
 The upcoming sections talk about the following topics on Data Explorer.
 
 - [Components of Data Explorer](#3-components-of-data-explorer)
