@@ -261,7 +261,9 @@ Here, you can see the Folder view, and the Launcher view.
 
 - Folder view: It contains a structured list of files and folders sorted in alphabetical order. Each folder contains two sub-folders : dataset, and notebook.
 
-- Launcher view: This shows the content of Notebook to be explored by the end user. To launch the content of selected Notebook, it is required that the corresponding dataset of that Notebook must be pre-installed.
+- Launcher view: This shows the content of Notebook files to be explored by the end user. 
+-
+> Note: To successfully view or launch the selected Notebook, it is required that the corresponding dataset for that Notebook must be **pre-installed**.
   
 ### 4.4 Deploy a Dataset
 
@@ -273,17 +275,17 @@ To install the dataset,
 
  ![Install Dataset](/_images/depds1.png)
 
-3. Click on the icon on the bottom right of the dataset tile. This will open the selected dataset in new tab displaying information about the chosen dataset.
+3. Click on the icon on the bottom right of the dataset tile. This will open a new tab displaying more information about the the selected dataset.
 
  ![Install Dataset](/_images/depds2.png)
 
 4. Click on `Deploy Dataset` to install the chosen dataset.
 
-5. On successful installation, the page will display installation details with Dataset path that a user can reference while exploring Jupyter Notebooks in the JupyterLab console.
+5. On successful installation, the page will display installation details with `Dataset path` that a user can reference while exploring Jupyter Notebooks in the JupyterLab.
 
 ![Install Dataset](/_images/depds3.png)
 
-A folder gets added to the JupyterLab directory structure.
+COnsequently, a folder gets added to the JupyterLab directory.
 
 ![Install Dataset](/_images/depds4.png)
 
