@@ -26,7 +26,7 @@
 - [5. Jupyter Notebook](#5-jupyter-notebook)
   * [5.1 Exploring Jupyter Notebook](#51-exploring-jupyter-notebook)
   * [5.2 Create and Use a Notebook in JupyterLab](#52-create-and-use-a-notebook-in-jupyterlab)
-- [6. Further Reading](#6-useful-links)
+- [6. Further Reading](#6-further-reading)
 - [7. Help & Support](#7-help---support)
 
 -----
