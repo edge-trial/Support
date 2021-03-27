@@ -128,8 +128,6 @@ If the instance has started completely, you would see **Data Explorer Catalog** 
 
 > **That's it!** Now you are ready to get hands-on with Data Explorer.
 
------
-
 The upcoming sections talk about the following topics on Data Explorer.
 
 - Components of Data Explorer
@@ -138,10 +136,9 @@ The upcoming sections talk about the following topics on Data Explorer.
 - Exploring Data Assets using Notebook in JupyterLab
 
 
-
 ***Let's get started!***
 
-
+----------
 
 ## 3. Components of Data Explorer 
 
