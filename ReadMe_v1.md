@@ -1,7 +1,7 @@
 ## Overview
 
 <p>This guide describes the concept of Data Explorer, how to get access to Data Explorer catalog, and further use it to discover data by classified categories.
-<p>In the later sections, you will gain insights into essentials of Jupyter Notebook including steps to use a Notebook in JupyterLab and some helpful links to information about using Notebooks. Also, learn how to raise a support request.
+<p>In the later sections, you will gain insights into essentials of Jupyter Notebook including steps to create and use a Notebook in JupyterLab and some helpful links to information about using JupyterLab and Jupyter Notebook interface. Also, learn how to raise a support request for any issue related to Data Explorer.
 
 ----
 #### Contents
