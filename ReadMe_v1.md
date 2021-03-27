@@ -262,7 +262,7 @@ Here, you can see the Folder view, and the Launcher view.
 - Folder view: It contains a structured list of files and folders sorted in alphabetical order. Each folder contains two sub-folders : dataset, and notebook.
 
 - Launcher view: This shows the content of Notebook files to be explored by the end user. 
--
+
 > Note: To successfully view or launch the selected Notebook, it is required that the corresponding dataset for that Notebook must be **pre-installed**.
   
 ### 4.4 Deploy a Dataset
