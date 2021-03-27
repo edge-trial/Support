@@ -33,11 +33,10 @@
 -----
 
 ## 1. What is Data Explorer?
-
-Data Explorer is a robust and highly intuitive data exploration platform for data science applications. It helps users visualize, and analyze diverse data from some interesting classified datasets and associated notebook resources. 
+<p>Data Explorer is a robust and highly intuitive data exploration platform for data science applications.
+<p>It helps users visualize, and analyze diverse data from some interesting classified datasets and associated notebook resources. 
 
 ### 1.1 Unlocking the Benefits
-
 - This Data Explorer offers the advantage for the end users to discover data using its featured cataloging capabilities, and to explore machine learning algorithms/code with Notebook.
 - It offers an interesting collection of data scientist textbooks and iPython notebooks that helps users to explore the datasets, learn about different algorithms, and process the data using Python notebooks.
 - Users can make use of Jupyter Notebooks which already contain the code relevant to certain data science capabilities. 
