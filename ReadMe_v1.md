@@ -285,11 +285,11 @@ To install the dataset,
 
 ![Install Dataset](/_images/depds3.png)
 
-COnsequently, a folder gets added to the JupyterLab directory.
+Consequently, a folder gets added to the JupyterLab directory.
 
 ![Install Dataset](/_images/depds4.png)
 
-> Note: Dataset folder and Notebook folder resides in the same directory in JupyterLab space.
+> Note: Dataset folder and Notebook folder resides in the same directory within JupyterLab.
 
 ------------
 ## 5. Jupyter Notebook
@@ -340,9 +340,7 @@ To report a bug, please open a [Github issue](https://github.com/edge-trial/Supp
 
 > Make sure you set up a separate public Github account for this purpose.
 
-Providing as much information as possible about your issue will help our Support Team to give you a more complete response in quick time.
-
-*We also welcome suggestions for new feature or improvement as they will help make this project more useful for everyone.*
+_Providing as much information as possible about your issue will help our Support Team to give you a more complete response in quick time._
 
 ------------
 ## 7. Further Reading
