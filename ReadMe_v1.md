@@ -42,6 +42,8 @@
 - Users can make use of Jupyter Notebooks which already contain the code relevant to certain data science capabilities. 
 -  It makes easy for the data scientists to interact with their data using catalog functionalities combined with the power of JupyterLab to perform complex operations on target data streams.
 
+-----
+
 ## 2. Run Data Explorer on AWS
 
 To get started, follow the below steps.
@@ -167,14 +169,9 @@ This allows the user to view the grid content based on the selection of radio bu
 - If a user selects `All`, it will show the entire list of available datasets and notebooks.
 - If a user selects `Deployed`, it will show only the installed versions of datasets and notebooks.
 
-
-**Show All**
-
 ![CatalogUI](/_images/showall.png)
 
-
-**Show Deployed**
-
+----
 ![CatalogUI](/_images/shoedep.png)
 
 
@@ -202,7 +199,7 @@ This produces the list of available Notebook tiles in the grid column.
 
 Selecting this category will display the grid of dataset tiles containing CSV files. CSV files are easy to work with and are characterized by their tabular format.
 
-##### D. Categories
+##### Categories
 
 This contains the datasets categories upon which Notebooks have been built. A user can choose to view particular tile(s), making choices from the given genres of categories.
 
@@ -225,6 +222,7 @@ This window will display the name of selected dataset on the top, and following 
 - Metadata (Install Time, Type, Last Updated, Categories, By)
 - Brief Description
 
+-------
 ## 4. JupyterLab
 
 ### 4.1 Getting Started
@@ -259,7 +257,6 @@ Here, you can see the Folder view, and the Launcher view.
 - Folder view: It contains a structured list of files and folders sorted in alphabetical order. Each folder contains two sub-folders : dataset, and notebook.
 
 - Launcher view: This shows the content of Notebook to be explored by the end user. To launch the content of selected Notebook, it is required that the corresponding dataset of that Notebook must be pre-installed.
-
   
 ### 4.4 Deploy a Dataset
 
@@ -287,6 +284,7 @@ A folder gets added to the JupyterLab directory structure.
 
 > Note: Dataset folder and Notebook folder resides in the same directory in JupyterLab space.
 
+------------
 ## 5. Jupyter Notebook
 
 Jupyter notebooks are rich documents that combine live runnable code with equations (LaTeX),  images, narrative text (Markdown), interactive visualizations and other file formats. The file extension of a Jupyter notebook  is `.ipynb`.
@@ -326,7 +324,7 @@ This opens the corresponding file in Launcher view as follows.
 
 The file contains a step-by-step guide on how to create a new a Notebook and use it in JupyterLab.
 
-
+---------------
 ## 6. Further Reading
 
 > A comprehensive list of links to information that will help you find what you are looking for.
@@ -338,8 +336,7 @@ To learn more about the repositories for a Jupyter project, you can take a momen
 - [JupyterLab Reference](https://jupyterlab.readthedocs.io/en/stable/)
 - [More About Jupyter Notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
 
-
-
+-----------
 ## 7. Help & Support
 
 If you encounter any problems when setting up or using Data Explorer, please let us know - we're here to help you!
