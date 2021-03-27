@@ -218,9 +218,9 @@ Suppose the user clicks on `All` and selects `Dataset` type. This will display t
 
 ![Browse Catalog](/_images/Browsedc.png)
 
-Now, clicking on one of the dataset tiles (say, Flower Classification Data), the user will view a small window opening to the right of the grid. See below.
+Now, clicking on one of the dataset tiles (say, Boston House Prediction Evaluation), the user will view a small window opening to the right of the grid. See below.
 
-![Dataset view](C:\Users\MugdhaThareja\Desktop\Dataset_view.PNG)
+![Dataset view](/_images/depds1.png)
 
 This window will display the name of selected dataset on the top, and following information about this dataset.
 
