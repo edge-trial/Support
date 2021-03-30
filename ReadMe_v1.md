@@ -6,7 +6,6 @@
 
 ----
 #### Contents
-[toc]
 
 - [Overview](#overview)
 - [1. What is Data Explorer?](#1-what-is-data-explorer-)
@@ -28,6 +27,7 @@
 - [5. Jupyter Notebook](#5-jupyter-notebook)
   * [5.1 Exploring Jupyter Notebook](#51-exploring-jupyter-notebook)
   * [5.2 Create and Use a Notebook in JupyterLab](#52-create-and-use-a-notebook-in-jupyterlab)
+  * [5.3 Using a Dataset in Sample Notebook](#53-using-a-dataset-in-sample-notebook)
 - [6. Getting Help](#6-getting-help)
 - [7. Further Reading](#7-further-reading)
 -----
