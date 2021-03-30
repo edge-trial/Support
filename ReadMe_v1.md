@@ -354,7 +354,17 @@ Let's recall once.
 ![install dataset](/_images/deply-ds.png)
 
 
-#### Deploying a Notebook
+#### Installing a Notebook
+
+1. Navigate to **Data Explorer Catalog --> Types --> Notebook**.
+2. Select any one Notebook you want to install or deploy.
+3. To install, click on the icon ![install icon](/_images/inst-icon.png) on the right-bottom of the dataset tile. This will open a new tab containing metadata, and brief description about the Notebook.
+> Note the Dataset information given in the metadata description.
+4. Click on **Deploy Notebook**.
+5. The Notebook is successfully installed.
+
+![install dataset](/_images/deply-nb.png)
+
 
 
 
