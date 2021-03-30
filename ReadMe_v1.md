@@ -389,8 +389,19 @@ To see the content of deployed CSV dataset, open the file in the dataset folder.
 
 To run a selected Notebook file, follow the below steps.
 
-> Note: To execute these steps, you should be logged in to JupyterLab and then you should navigate inside target notebook folder where the file to be processed is saved.
+> Note: To execute these steps, you should be logged in to JupyterLab.
+> Then you should navigate inside target notebook folder where the file to be processed is saved.
 
+1. Go to `Run` menu.
+2. Select `Run All Cells`.
+
+This will cause the corresponding dataset get consumed and enable processing the algorithms.
+
+![Run Notebook File](/_images/run_nb.png)
+
+Alternatively, you can choose to click `Play` button (right-directional triangle) visible 
+
+![Run Notebook File](/_images/playnb.png)
 
 
 ## 6. Getting Help
