@@ -369,6 +369,8 @@ Let's recall once.
 
 ![install dataset](/_images/deply-nb.png)
 
+> Now, let's see how we can use the deployed dataset in a sample Notebook using JupyterLab.
+
 #### Using the Dataset in Notebook
 - To consume a dataset in sample Notebook, it is important to understand how the notebook interprets which dataset to use and where that dataset is located.
 - A user can easily read any CSV dataset and track the information about the deployed dataset to be consumed by the Notebook.
