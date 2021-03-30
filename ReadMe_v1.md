@@ -27,7 +27,7 @@
 - [5. Jupyter Notebook](#5-jupyter-notebook)
   * [5.1 Exploring Jupyter Notebook](#51-exploring-jupyter-notebook)
   * [5.2 Create and Use a Notebook in JupyterLab](#52-create-and-use-a-notebook-in-jupyterlab)
-  * [5.3 Using a Dataset in Sample Notebook](#53-using-a-dataset-in-sample-notebook)
+  * [5.3 Use a Dataset in Sample Notebook](#53-use-a-dataset-in-sample-notebook)
 - [6. Getting Help](#6-getting-help)
 - [7. Further Reading](#7-further-reading)
 -----
@@ -338,7 +338,7 @@ This opens the corresponding file in Launcher view as follows.
 The file contains a step-by-step guide on how to create a new a Notebook and use it in JupyterLab.
 
 ---------------
-### 5.3 Using a Dataset in Sample Notebook
+### 5.3 Use a Dataset in Sample Notebook
 
 
 ## 6. Getting Help
