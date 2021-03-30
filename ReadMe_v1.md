@@ -338,12 +338,24 @@ This opens the corresponding file in Launcher view as follows.
 The file contains a step-by-step guide on how to create a new a Notebook and use it in JupyterLab.
 
 ---------------
-### 5.3 Use a Dataset in Sample Notebook
-This section describes how a user can use the dataset(s) deployed from the [Data Explorer Catalog](#31-data-explorer-catalog) in the sample notebook(s).
+### 5.3 Use Dataset in Sample Notebook
+This section describes how a user can use the dataset(s) deployed from the [Data Explorer Catalog](#31-data-explorer-catalog) in a sample notebook.
 
 Let's recall once.
 
-1. Navigate to 
+#### Installing a Dataset
+
+1. Navigate to **Data Explorer Catalog --> Types --> Dataset**.
+2. Select any one dataset you want to install or deploy.
+3. To install, click on the icon ![install icon](/_images/inst-icon.png) on the right-bottom of the dataset tile. This will open a new tab containing metadata, and brief description about the dataset.
+4. Click on **Deploy Dataset**.
+5. The dataset is successfully installed.
+
+![install dataset](/_images/deply-ds.png)
+
+
+#### Deploying a Notebook
+
 
 
 ## 6. Getting Help
