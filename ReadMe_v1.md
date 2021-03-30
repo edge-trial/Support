@@ -369,6 +369,14 @@ Let's recall once.
 ![install dataset](/_images/deply-nb.png)
 
 #### Using the Dataset in Notebook
+To consume a dataset in sample Notebook, it is important to understand how the notebook interprets which dataset to use and where that dataset is located.
+A user can easily read any CSV dataset and track the information about the deployed dataset to be consumed through the Notebook.
+
+> This interesting information snippet is well documented within a Notebook file (.ipynb) itself and that is `pandas.read_csv("location")`.
+
+See below.
+
+![Dataset Information in NB](/_images/usedsinb.png)
 
 
 ## 6. Getting Help
