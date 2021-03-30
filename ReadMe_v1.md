@@ -30,6 +30,7 @@
   * [5.3 Use a Dataset in Sample Notebook](#53-use-a-dataset-in-sample-notebook)
     + [Installing a Dataset](#installing-a-dataset)
     + [Installing a Notebook](#installing-a-notebook)
+    + [Using the Dataset in Notebook](#using-the-dataset-in-notebook)
     - [6. Getting Help](#6-getting-help)
 - [7. Further Reading](#7-further-reading)
 -----
