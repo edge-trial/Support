@@ -27,7 +27,7 @@
 - [5. Jupyter Notebook](#5-jupyter-notebook)
   * [5.1 Exploring Jupyter Notebook](#51-exploring-jupyter-notebook)
   * [5.2 Create and Use a Notebook in JupyterLab](#52-create-and-use-a-notebook-in-jupyterlab)
-  * [5.3 Use a Dataset in Sample Notebook](#53-use-a-dataset-in-sample-notebook)
+  * [5.3 Use Dataset in Sample Notebook](#53-use-dataset-in-sample-notebook)
     + [Installing a Dataset](#installing-a-dataset)
     + [Installing a Notebook](#installing-a-notebook)
     + [Using the Dataset in Notebook](#using-the-dataset-in-notebook)
