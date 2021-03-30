@@ -378,6 +378,10 @@ See below.
 
 ![Dataset Information in NB](/_images/usedsinb.png)
 
+As we discussed that Notebook and Dataset folder reside within a same directory in JupyterLab space. 
+- The information about consumable dataset for a particular Notebook can also be found in the metadata of Notebook description.
+
+![View of Dataset in Notebook](/_images/nbds-view.png)
 
 ## 6. Getting Help
 
