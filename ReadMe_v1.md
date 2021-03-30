@@ -378,10 +378,20 @@ See below.
 
 ![Dataset Information in NB](/_images/usedsinb.png)
 
-As we discussed that Notebook and Dataset folder reside within a same directory in JupyterLab space. 
 - The information about consumable dataset for a particular Notebook can also be found in the metadata of Notebook description.
 
-![View of Dataset in Notebook](/_images/nbds-view.png)
+To see the content of deployed CSV dataset, open the file in the dataset folder. See figure below.
+
+![Dataset Information in NB](/_images/contentdsnb.png)
+
+
+### 5.5 Run a Notebook File
+
+To run a selected Notebook file, follow the below steps.
+
+> Note: To execute these steps, you should be logged in to JupyterLab and then you should navigate inside target notebook folder where the file to be processed is saved.
+
+
 
 ## 6. Getting Help
 
