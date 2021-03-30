@@ -339,7 +339,7 @@ The file contains a step-by-step guide on how to create a new a Notebook and use
 
 ---------------
 ### 5.3 Use a Dataset in Sample Notebook
-
+This section describes how a user can use the dataset(s) deployed from the [Data Explorer Catalog](#types) in the sample notebook(s).
 
 ## 6. Getting Help
 
