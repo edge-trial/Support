@@ -332,6 +332,9 @@ This opens the corresponding file in Launcher view as follows.
 The file contains a step-by-step guide on how to create a new a Notebook and use it in JupyterLab.
 
 ---------------
+### 5.3 Using a Dataset in Sample Notebook
+
+
 ## 6. Getting Help
 
 If you encounter any problems when setting up or using Data Explorer, please let us know - we're here to help you!
