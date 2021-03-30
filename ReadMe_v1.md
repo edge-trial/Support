@@ -399,7 +399,7 @@ This will cause the corresponding dataset get consumed and enable processing the
 
 > Note: To execute these steps, you should be logged in to JupyterLab. Then you should navigate inside target notebook folder where the file to be processed is saved.
 
-Alternatively, you can choose to click `Play` button visible on the top menu of the Notebook file, and process the csv data contained within dataset. 
+Alternatively, you can choose to click `Play` button visible on the top menu of the Notebook file, consume and process the dataset. 
 
 ![Run Notebook File](/_images/playnb.png)
 
