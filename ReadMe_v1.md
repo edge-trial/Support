@@ -371,7 +371,7 @@ Let's recall once.
 
 #### Using the Dataset in Notebook
 - To consume a dataset in sample Notebook, it is important to understand how the notebook interprets which dataset to use and where that dataset is located.
-- A user can easily read any CSV dataset and track the information about the deployed dataset to be consumed through the Notebook.
+- A user can easily read any CSV dataset and track the information about the deployed dataset to be consumed by the Notebook.
 
 > This interesting information snippet is well documented within a Notebook file (.ipynb) itself and that is `pandas.read_csv("location")`.
 
@@ -381,7 +381,7 @@ See below.
 
 - The information about consumable dataset for a particular Notebook can also be found in the metadata of Notebook description.
 
-To see the content of deployed CSV dataset, open the file in the dataset folder. See figure below.
+To see the content of deployed CSV dataset, open the file in the dataset folder. Refer the figure below.
 
 ![Dataset Information in NB](/_images/contentdsnb.png)
 
@@ -400,7 +400,7 @@ This will cause the corresponding dataset get consumed and enable processing the
 
 ![Run Notebook File](/_images/run_nb.png)
 
-Alternatively, you can choose to click `Play` button (right-directional triangle) visible 
+Alternatively, you can choose to click `Play` button visible on the top menu of the Notebook file. 
 
 ![Run Notebook File](/_images/playnb.png)
 
