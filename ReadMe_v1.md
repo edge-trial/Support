@@ -301,9 +301,9 @@ Jupyter notebooks are rich documents that combine live runnable code with equati
 ### 5.1 Exploring Jupyter Notebook
 
 1. To view the Notebook files in JupyterLab, click on `JupyterLab` tab. This will redirect you to login dashboard.
-2. Enter the JupyterLab Credentials and click on `Sign in`. 
+2. Enter the JupyterLab Credentials (see section 4.2) and click on `Sign in`. 
 
-> Note: If you are already logged in to JupyterLab, ignore the above steps.
+> Note: If you have already logged in to JupyterLab, ignore the above steps.
 
 ![Entering Jupyter Notebook Interface](/_images/Jupnb.png)
 
