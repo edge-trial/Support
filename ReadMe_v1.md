@@ -368,7 +368,7 @@ Let's recall once.
 
 ![install dataset](/_images/deply-nb.png)
 
-
+#### Using the Dataset in Notebook
 
 
 ## 6. Getting Help
