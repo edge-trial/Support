@@ -227,7 +227,7 @@ This window will display the name of selected dataset on the top, and following 
 - Metadata (Install Time, Type, Last Updated, Categories, By)
 - Brief description
 
-<p>The same happens when you click on any Notebook tile, after selecting Types as 'Notebook' from the Catagory titles.
+<p>The same happens when you click on any Notebook tile, after selecting Types as 'Notebook' from the Category titles.
  
  ![Notebook View](/_images/expnb.png)
 
