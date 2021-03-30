@@ -6,6 +6,7 @@
 
 ----
 #### Contents
+[toc]
 
 - [Overview](#overview)
 - [1. What is Data Explorer?](#1-what-is-data-explorer-)
