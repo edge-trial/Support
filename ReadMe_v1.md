@@ -8,7 +8,7 @@
 #### Contents
 
 - [Overview](#overview)
-- [1. What is Data Explorer?](#1-what-is-data-explorer-)
+- [1. Introduction to Data Explorer](#1-introduction-to-data-explorer)
   * [1.1 Unlocking the Benefits](#11-unlocking-the-benefits)
 - [2. Running Data Explorer on AWS](#2-running-data-explorer-on-aws)
 - [3. Components of Data Explorer](#3-components-of-data-explorer)
@@ -36,7 +36,7 @@
 - [7. Further Reading](#7-further-reading)
 -----
 
-## 1. What is Data Explorer?
+## 1. Introduction to Data Explorer
 <p>Data Explorer is a robust and highly intuitive data exploration platform for data science applications.
 <p>It helps users visualize, and analyze diverse data from some interesting classified datasets and associated notebook resources. 
 
